@@ -6,7 +6,7 @@
 [![Phone](https://img.shields.io/badge/Phone-7388599206-success)](tel:+917388599206)
 
 ## 🚀 Skills
-- WordPress | HTML | CSS | JavaScript | PHP | MySQL | Bootstrap | Ajax
+- WordPress | HTML | CSS | JavaScript | PHP | MySQL | Bootstrap | Ajax 
 
 ## 🌐 Languages
 - English (Limited Working Proficiency)
@@ -33,11 +33,19 @@
 - **IBM** (08/2022 - 09/2022)
    - Technology Used: Python
 
-- **Nirvighnam Technomation** (03/2023 - Present)
+- **Nirvighnam Technomation** (03/2023 - 10/2023)
    - Interning and working with WordPress technology, creating plugins and themes.
+
+## 💼 Work Experience
+
+### Nirvighnam Technomation (Full-Time)
+- **Position:** Junior Software Developer
+- **Duration:** October 2023 - Present
+
+Working full-time at Nirvighnam Technomation, contributing to projects involving WordPress technology. Responsibilities include creating plugins and themes, with a focus on enhancing user experience and functionality. Excited to be part of a dynamic team, contributing to the company's growth.
 
 ## 🏆 Achievements
 - Received Teacher Choice Award for exceptional contributions.
 - Achieved First Winner Award on the volleyball team, highlighting sportsmanship and teamwork.
 
-Feel free to connect with me! 😊
+Feel free to connect with me for more details or collaboration! 😊
