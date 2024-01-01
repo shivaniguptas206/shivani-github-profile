@@ -10,11 +10,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/shivani gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani gupta" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silentkudi&show_icons=true&locale=en&layout=compact" alt="silentkudi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silentkudi&show_icons=true&locale=en" alt="silentkudi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silentkudi&" alt="silentkudi" /></p>
