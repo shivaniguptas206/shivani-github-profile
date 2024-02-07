@@ -1,9 +1,16 @@
-# Hi there! 👋 I'm Shivani Gupta
+<div align="center">
+  <h1> 🚀  Hi there! 👋 I'm Shivani Gupta</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-Shivani%20Gupta-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/shivani-gupta-41733a24a/)](https://www.linkedin.com/in/shivani-gupta-41733a24a/)
-[![GitHub](https://img.shields.io/badge/-shivanigupta121-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/shivanigupta121)](https://github.com/shivanigupta121)
-[![Email](https://img.shields.io/badge/Email-shiviguptasrmcem121%40gmail.com-green)](mailto:shiviguptasrmcem121@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-7388599206-success)](tel:+917388599206)
+  <h3><strong>Connect With Me</strong></h3>
+  <a href="https://www.linkedin.com/in/shivani-gupta-41733a24a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
+  <a href="https://github.com/shivaniguptas206/"><img src="https://img.shields.io/badge/GitHub-Profile-brightgreen"></a>
+  <a href="https://wordpress.com/home/shivani983.wordpress.com"><img src="https://img.shields.io/badge/WordPress-Blog-orange"></a>
+  <a href="https://profiles.wordpress.org/shivaniguptas206/"><img src="https://img.shields.io/badge/WordPress-Profile-informational"></a>
+  <a href="https://shivanimobilecenter.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-yellow"></a>
+  <a href="https://www.learnvern.com/r/c74aa1"><img src="https://img.shields.io/badge/LearnVern-Course-red"></a>
+  <a href="https://stackoverflow.com/users/23262040/shivani-gupta"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-blue"></a>
+  
+</div>
 
 ## 🚀 Skills
 - WordPress | HTML | CSS | JavaScript | PHP | MySQL | Bootstrap | Ajax 
