@@ -13,46 +13,105 @@
 </div>
 
 ## 🚀 Skills
-- WordPress | HTML | CSS | JavaScript | PHP | MySQL | Bootstrap | Ajax 
+
+- **WordPress**: Frontend & Backend Development, Plugin Development, Theme Customization, API Integration
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Vue.js, jQuery
+- **Backend**: PHP, MySQL, Laravel, REST API Creation & Integration
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **Other Tools**: Ajax, GitHub, Bitbucket, GitLab
+
+---
 
 ## 🌐 Languages
-- English (Limited Working Proficiency)
-- Hindi (Full Professional Proficiency)
+- **English**: Limited Working Proficiency
+- **Hindi**: Full Professional Proficiency
+
+---
 
 ## 🎓 Education
-- **Master Degree** in Computer Application, Shri Ramswaroop Memorial College Of Engineering and Management, Lucknow (11/2021 - 08/2023, 7.2 CGPA)
-- **Graduation Degree** in Information Technology, Dev Sanskriti Vishwavidyalaya Haridwar, Uttarakhand (08/2018 - 06/2021, 7.7 CGPA)
-- **Intermediate (U.P. Board)**, Faiz-a-aam Muslim Inter College, Faizabad (08/2015 - 09/2017, 77%)
-- **High School (U.P. Board)**, Faiz-a-aam Muslim Inter College, Faizabad (07/2014 - 06/2015, 81%)
+
+- **Master of Computer Application (MCA)**  
+  Shri Ramswaroop Memorial College of Engineering and Management, Lucknow  
+  *11/2021 - 08/2023* | CGPA: 7.3
+
+- **Bachelor of Information Technology (B.Tech)**  
+  Dev Sanskriti Vishwavidyalaya Haridwar, Uttarakhand  
+  *08/2018 - 06/2021* | CGPA: 7.7
+
+- **Intermediate (U.P. Board)**  
+  Faiz-a-aam Muslim Inter College, Faizabad  
+  *08/2015 - 09/2017* | Percentage: 77%
+
+- **High School (U.P. Board)**  
+  Faiz-a-aam Muslim Inter College, Faizabad  
+  *07/2014 - 06/2015* | Percentage: 81%
+
+---
 
 ## 💻 Personal Projects
-1. **Digital Platform of Mobile Shop** (03/2021 - 05/2021)
-   - [Demo](https://shivanimobilecenter.github.io/)
-   - Web app simplifying customer interactions in mobile stores using HTML, CSS, and JavaScript.
 
-2. **HostelFinder** (11/2022 - 01/2023)
-   - Aids students in finding accommodations with details on pricing, food, security, internet, location, and contacts.
+1. **[Digital Platform of Mobile Shop](https://shivanimobilecenter.github.io/)** (03/2021 - 05/2021)  
+   - A web app simplifying customer interactions in mobile stores using HTML, CSS, and JavaScript. Showcased expertise in user-friendly web app design.
 
-3. **Gym Management System** (05/2023 - 07/2023)
-   - Promotes fitness with class info, locations, bookings, and tech like HTML, CSS, JavaScript, PHP, MySQL.
+2. **HostelFinder** (11/2022 - 01/2023)  
+   - Helps students find accommodations with details on pricing, food, security, internet, location, and contacts.
 
-## 🌐 Internship
-- **IBM** (08/2022 - 09/2022)
-   - Technology Used: Python
+3. **Gym Management System** (05/2023 - 07/2023)  
+   - A fitness app with features like class information, booking, locations, built with HTML, CSS, JavaScript, PHP, and MySQL.
 
-- **Nirvighnam Technomation** (03/2023 - 10/2023)
-   - Interning and working with WordPress technology, creating plugins and themes.
+---
 
 ## 💼 Work Experience
 
-### Nirvighnam Technomation (Full-Time)
-- **Position:** Junior Software Developer
-- **Duration:** October 2023 - Present
+### **WordPress & Laravel Developer**  
+**SpireHub Softwares Pvt Ltd**  
+*April 2024 - Present*  
+- Responsible for handling both **WordPress** and **Laravel** projects.
+- Developing and maintaining front-end and back-end functions.
+- Customizing themes, creating custom plugins, and handling API integrations.
+- Working with Laravel for backend development, ensuring smooth integration with the front-end.
 
-Working full-time at Nirvighnam Technomation, contributing to projects involving WordPress technology. Responsibilities include creating plugins and themes, with a focus on enhancing user experience and functionality. Excited to be part of a dynamic team, contributing to the company's growth.
+### **Freelancer**  
+**Self-employed**  
+*February 2024 - March 2024*  
+- Specialized in WordPress plugin development, backend customization, and building WordPress websites according to client requirements.
+
+### **Trainee WordPress Developer**  
+**Nirvighnam Technomation**  
+*March 2023 - January 2024*  
+- Developed and maintained both front-end and back-end functionalities.
+- Worked on creating custom plugins and theme customization.
+
+---
+
+## 🌐 Internship
+
+### **IBM**  
+*August 2022 - September 2022*  
+- Worked with Python for various tech-related tasks and gained hands-on experience with IBM tools and software.
+
+### **Nirvighnam Technomation**  
+*March 2023 - October 2023*  
+- Interned with WordPress technology, contributing to plugin and theme development.
+
+---
 
 ## 🏆 Achievements
-- Received Teacher Choice Award for exceptional contributions.
-- Achieved First Winner Award on the volleyball team, highlighting sportsmanship and teamwork.
+
+- **Teacher Choice Award** for exceptional contributions.
+- **First Place** in the volleyball competition, demonstrating leadership, teamwork, and sportsmanship.
+
+---
+
+## 🚀 Connect With Me
+
+- **LinkedIn**: [Shivani Gupta](https://linkedin.com/in/shivani-gupta-41733a24a)  
+- **GitHub**: [shivaniguptas206](https://github.com/shivaniguptas206)  
+- **Portfolio**: [shivanimobilecenter.github.io](https://shivanimobilecenter.github.io)  
+- **WordPress Profile**: [WordPress Profile](https://profiles.wordpress.org/shivaniguptas206)  
+- **StackOverflow**: [Shivani Gupta on StackOverflow](https://stackoverflow.com/users/23262040/shivani-gupta)  
+- **LearnVern Course**: [My Course](https://www.learnvern.com/r/c74aa1)  
+
+---
 
 Feel free to connect with me for more details or collaboration! 😊
